@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CalcTemp</string>
+    <string name="labelValor">Informe o valor.</string>
+    <string name="LabelResultado">0.0 Graus Fahrenheit</string>
+    <string name="botaoCalcula">Calcula</string>
+    <string name="hintValor">Graus Celsius</string>
+
+</resources>
